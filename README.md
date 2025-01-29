@@ -2,8 +2,7 @@ Este projeto aplica a Análise Envoltória de Dados (DEA) para avaliar a eficiê
 A metodologia permite comparar o desempenho de cada instituição na utilização de recursos para gerar resultados acadêmicos.
 
 ## Objetivos ##
-Medir a eficiência relativa das universidades públicas e instituições de ensino superior.
-Identificar quais instituições fazem melhor uso de seus recursos para produzir resultados educacionais.
+Medir a eficiência relativa das universidades públicas e instituições de ensino superior no ano de 2019. Identificar quais instituições fazem melhor uso de seus recursos para produzir resultados educacionais.
 
 ## Metedologias ##
 Tecnica Utilizada: A técnica DEA (Data Envelopment Analysis) é uma metodologia de análise de dados que permite avaliar a eficiência de uma unidade em relação a outras unidades semelhantes. A DEA é uma técnica não-paramétrica que usa programação matemática para comparar dados de entrada e saída.
@@ -36,4 +35,20 @@ Eficiencia Calculada no Programa R.
 
 ## Fontes ##
 https://www.semesp.org.br/pesquisas/mapa-do-ensino-superior-no-brasil-2019/
+
+https://portaldatransparencia.gov.br/
+
+download.inep.gov.br
+https://download.inep.gov.br
+PDF
+RESUMO TÉCNICO DO CENSO DA EDUCAÇÃO SUPERIOR 2019
+
+download.inep.gov.br
+https://download.inep.gov.br
+PDF
+RESUMO TÉCNICO DO CENSO DA EDUCAÇÃO SUPERIOR 2019
+
+
+
+
 

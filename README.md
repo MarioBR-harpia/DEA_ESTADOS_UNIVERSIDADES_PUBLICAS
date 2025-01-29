@@ -24,7 +24,7 @@ Output(2) : Ingressantes ÷ Gasto Anual por Aluno — Este output analisa a rela
 Output(3) : Enade ÷ IES — Este indicador pode medir a relação entre o desempenho no Enade e nas Instituições de Ensino Superior (IES), refletindo a qualidade do ensino com base no desempenho de seus alunos.
 
 
-## Observacoes ##
+## Observações ##
 Esse conjunto de variáveis ​​pode fornecer uma análise bastante abrangente do desempenho das instituições universitárias públicas por estado, levando em conta tanto a eficiência do uso de recursos quanto os resultados educacionais.
 
 ## Resultados Esperados ##

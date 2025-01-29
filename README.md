@@ -32,3 +32,8 @@ Esse conjunto de variáveis ​​pode fornecer uma análise bastante abrangente
 Identificar universidades eficientes e ineficientes. Confira na pasta Excel "DADOS_ESTADOS.xlsx" , Planilha "Eficiencia".
 Fornecer insights sobre a alocação de recursos no ensino superior. Confira na pasta Excel "DADOS_ESTADOS.xlsx" , Planilha "Eficiencia".
 Eficiencia Calculada no Programa R.
+
+
+## Fontes ##
+https://www.semesp.org.br/pesquisas/mapa-do-ensino-superior-no-brasil-2019/
+
